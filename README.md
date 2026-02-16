@@ -82,7 +82,7 @@ User speaks
 
 ## 👤 Author
 
-**Ankit Nagar**  
+**Ansh Laad**  
 B.Tech CSE, Medicaps University  
 Full-Stack Developer
 
